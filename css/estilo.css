@@ -1,0 +1,118 @@
+body{
+	padding-top: 40px;
+	overflow-x: hidden;
+}
+small{
+	color: #fff;
+}
+#menu-navegacao{
+	overflow: hidden;
+}
+.divslider{
+    padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+#servico,#video{
+	padding-top: 25px;
+	padding-bottom: 15px;
+	min-height: 100vh;
+	background-image: url('../img/fundo.png');
+	background-repeat: no-repeat;
+	 background-size: 100%;
+  background-size: cover;/*posicionando a imagem com 100% da tela*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -ms-background-size:cover;
+  -o-background-size:cover;
+}
+#localizacao{
+	background-color: #0F4C5C;
+}
+#portifolio{
+	padding-top: 25px;
+	padding-bottom: 15px;
+	min-height: 100vh;
+	background-image: url('../img/fundo_rua.jpg');
+	background-repeat: no-repeat;
+	 background-size: 100%;
+  background-size: cover;/*posicionando a imagem com 100% da tela*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -ms-background-size:cover;
+  -o-background-size:cover;
+}
+.linkimg h1{
+	color: #fff;
+	border: 3px solid #fff;
+	padding: 5px;
+	transition: all .3s;
+}
+.linkimg h1:hover{
+   background-color: rgba(255,255,255,.2);
+	
+
+  
+}
+#contato{
+	padding-top: 25px;
+	padding-bottom: 15px;
+	min-height: 100vh;
+	background-image: url('../img/floresta-noite.jpg');
+	background-repeat: no-repeat;
+	 background-size: 100%;
+  background-size: cover;/*posicionando a imagem com 100% da tela*/
+  -moz-background-size:cover;
+  -ms-background-size:cover;
+  -o-background-size:cover;
+}
+.servico-info{
+	text-align: center;
+}
+.servico-info h3{
+    font-size: 30px;
+
+}
+.servico-info p,h3{
+	text-shadow: 1px 1px 1px #fff;
+}
+#btn_serv{
+	margin-top: 30px;
+}
+.titu h3{
+	color: #000000;
+}
+#sobre span{
+	font-size: 20px;
+
+}
+#citacao{
+	margin-top: 50px;
+	font-size: 19px;
+	color: #20A39E;
+}
+.video_text{
+	color: #fff;
+	text-shadow: 1px 1px 1px #000000;
+}
+#rodape{
+	
+	min-height: 60vh;
+
+}
+.fundo img{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.fundo span{
+margin-left: 20px;
+	
+}
+.fundo h4{
+	background-color: #000000;
+	padding: 10px;
+	color: #fff;
+}
+.btnsaiba{
+	margin-bottom:10px;
+}
